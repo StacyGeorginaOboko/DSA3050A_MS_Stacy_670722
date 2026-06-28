@@ -1,6 +1,8 @@
 # Business Intelligence Performance Dashboard - Amazon Sales Analysis
 **Student Name:** Stacy Oboko
+
 **Student ID:** 670722
+
 **Course Code:** DSA3050A — Mid-Semester Examination  
 
 ---
